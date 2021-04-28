@@ -18,3 +18,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/lucas-macedo-lmo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a target="_blank" href="https://www.instagram.com/lmacedov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
 ### Contact me:
 <a target="_blank" href="mailto: lucasmacedo123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+![lukaofirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaofirst&show_icons=true&theme=dark) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaofirst&layout=compact&langs_count=8&theme=dark)](https://github.com/lukaofirst/github-readme-stats)
