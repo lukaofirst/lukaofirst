@@ -13,7 +13,7 @@
 
 <h2>Currently</h2> 
 
-* :computer: Starting my lessons with <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+* :computer: Starting my lessons with <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> & <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 
 <h2>For the future</h2>
 
