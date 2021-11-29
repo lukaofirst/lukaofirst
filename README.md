@@ -16,7 +16,7 @@
 
 <h2>Currently</h2> 
 
-* :computer: Going deeper at: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> 
+* :computer: Going deeper at: <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> 
 
 <h2>For the future</h2>
 
