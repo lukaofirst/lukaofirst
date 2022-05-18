@@ -48,12 +48,13 @@
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
    
 </div>
 
 <h2 align='center'>Currently</h2> 
 
-<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"></p>
+<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" /></p>
 
 <h2 align='center'>For the future</h2>
 
