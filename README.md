@@ -3,7 +3,7 @@
 <div align='center'>
   
 <p>First of all, welcome to my GitHub, I really appreciate that :pray: </p>
-<p>Well, this is where you can find everything about my love for tecnology :hearts: </p>
+<p>Well, this is where you can find everything about my love for technology :hearts: </p>
   
 <p>Social & Contact</p>
 <p>
