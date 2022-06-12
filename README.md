@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"> 
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white">
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
 </div>
 
 <h4 align='center'>:gear: Back-End and Databases:</h4>
@@ -54,7 +55,7 @@
 
 <h2 align='center'>Currently</h2> 
 
-<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" /></p>
+<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></p>
 
 <h2 align='center'>For the future</h2>
 
