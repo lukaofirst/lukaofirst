@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> 
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"> 
+<img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
 </div>
@@ -55,7 +56,7 @@
 
 <h2 align='center'>Currently</h2> 
 
-<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></p>
+<p align='center'>:computer: Going deeper at: https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white</p>
 
 <h2 align='center'>For the future</h2>
 
