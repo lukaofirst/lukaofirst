@@ -64,7 +64,7 @@
 
 <h2 align='center'>Currently</h2> 
 
-<p align='center'>:computer: Going deeper at: </p>
+<p align='center'>:computer: Going deeper at: Principles and Concepts of Clean Architecture</p>
 
 <h2 align='center'>For the future</h2>
 
