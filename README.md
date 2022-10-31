@@ -64,7 +64,7 @@
 
 <h2 align='center'>Currently</h2> 
 
-<p align='center'>:computer: Going deeper at: Principles and Concepts of Clean Architecture</p>
+<p align='center'>:computer: Going deeper at: Principles, Concepts of Clean Architecture and <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"></p>
 
 <h2 align='center'>For the future</h2>
 
