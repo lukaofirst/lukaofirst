@@ -49,7 +49,7 @@
   
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=FFFFF1">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
    
 </div>
@@ -62,9 +62,17 @@
 
 </div>
 
+<div align='center'>
+
+<h4 align='center'>:blue_book: Fundamentals:</h4>
+
+<p align='center'>Clean Architecture | Clean Code</p>
+  
+</div>
+
 <h2 align='center'>Currently</h2> 
 
-<p align='center'>:computer: Going deeper at: Principles, Concepts of Clean Architecture and <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"></p>
+<p align='center'>:computer: Going deeper at: Algorithms (Searching, Sorting, Graphs...) and <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"></p>
 
 <h2 align='center'>For the future</h2>
 
