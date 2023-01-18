@@ -67,7 +67,7 @@
 
 <h4 align='center'>:blue_book: Fundamentals:</h4>
 
-<p align='center'>Clean Architecture | Clean Code | SOLID | Unit Test for .NET Core (xUnit) | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"> </p>
+<p align='center'>Clean Architecture | Clean Code | SOLID | Unit Test for .NET Core (xUnit) 
   
 </div>
 
