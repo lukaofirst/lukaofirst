@@ -50,7 +50,7 @@
   
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=FFFFF1">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=FFFFF8">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
    
 </div>
