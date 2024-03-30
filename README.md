@@ -112,10 +112,7 @@
 
 <h2 align='center'>Currently</h2> 
 
-<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" >
-
+<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white">
 
 <h2 align='center'>For the future</h2>
 
