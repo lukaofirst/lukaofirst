@@ -96,9 +96,19 @@
 
 <div align='center'>
 
+<h4 align='center'>:test_tube: Testing:</h4>
+
+<p align='center'>Unit and Integration Tests for .NET (xUnit)</p>
+
+<p align='center'><img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white"></p>
+
+</div>
+
+<div align='center'>
+
 <h4 align='center'>:blue_book: Fundamentals:</h4>
 
-<p align='center'>Clean Architecture | Clean Code | SOLID | Unit Test for .NET Core (xUnit) 
+<p align='center'>Clean Architecture | Clean Code | SOLID
   
 </div>
 
@@ -108,11 +118,13 @@
 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" >
 
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=float&logo=microsoft-azure&logoColor=white" />
+
 </div>
 
 <h2 align='center'>Currently</h2> 
 
-<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white">
+<p align='center'>:computer: Going deeper at: <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=float&logo=microsoft-azure&logoColor=white" />
 
 <h2 align='center'>For the future</h2>
 
