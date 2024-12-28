@@ -8,7 +8,6 @@
 <p>Social & Contact</p>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/lucas-macedo-lmo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a> 
-<a target="_blank" href="https://www.instagram.com/lmacedov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 <a target="_blank" href="mailto: lucasmacedo123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
   
